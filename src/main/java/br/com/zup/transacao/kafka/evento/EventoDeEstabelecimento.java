@@ -1,11 +1,6 @@
 package br.com.zup.transacao.kafka.evento;
 
 import br.com.zup.transacao.transacoes.Estabelecimento;
-import org.springframework.util.Assert;
-
-import javax.persistence.EntityManager;
-import javax.persistence.TypedQuery;
-import java.util.List;
 
 public class EventoDeEstabelecimento {
 
